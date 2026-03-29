@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# SQLite database (local only, not for GitHub)
+aiotdb.db
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Word documents (report)
+*.docx
+*.pdf
