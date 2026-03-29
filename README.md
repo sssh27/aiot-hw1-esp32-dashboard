@@ -148,5 +148,5 @@ Pushed to GitHub → deployed to Streamlit Cloud ✅
 
 ## 🔗 Links
 
-- **GitHub Repo:** _(add your repo URL here)_
-- **Live Demo:** _(add your Streamlit Cloud URL here)_
+- **GitHub Repo:** https://github.com/sssh27/aiot-hw1-esp32-dashboard
+- **Live Demo:** https://7jibwajs7yknfxjlcvde6s.streamlit.app/
